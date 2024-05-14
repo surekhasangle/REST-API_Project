@@ -1,6 +1,6 @@
 **About**
 
-This project has REST API methods which I implemented for greater understanding of REST API.
+This project has REST API methods GET PUT PUSH PATCH DELETE which I implemented for greater understanding of REST API.
 
 
 **Technologies Used**
